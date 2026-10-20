@@ -49,16 +49,24 @@ The selected modeling strategy uses 2020–2024 for training and 2025 for out-of
 This forecast is a statistical baseline, not a guarantee of future production. Actual outcomes depend on investment, drilling and completion activity, infrastructure, operating conditions, and other industry factors not explicitly included in this univariate model.
 
 ## 5. Project Documentation
+The following documents and supporting files are available in this repository:
 
-The repository is intended to include:
+### Final Research Paper
+- [Download PDF](documents/Vaca_Muerta_Oil_Forecast_2026.pdf)
+- [Download Word](documents/Vaca_Muerta_Oil_Forecast_2026.docx)
 
-- Final research paper (PDF and Word).
-- Technical appendix with methodology and statistical diagnostics.
-- Historical production dataset (Excel).
-- Python/Jupyter notebook with the modeling workflow.
-- Main analytical charts and forecast visualizations.
+### Technical Appendix
+- [Download PDF](documents/Vaca_Muerta_Anexo_Tecnico_2026.pdf)
+- [Download Word](documents/Vaca_Muerta_Anexo_Tecnico_2026.docx)
 
-Documents and supporting files will be linked here as they are uploaded.
+### Historical Production Dataset
+- [Excel — Monthly Oil Production 2012–2025](data/Vaca_Muerta_Serie_2012_2025.xlsx)
+
+### Python / Jupyter Notebook
+- [View Prophet Forecasting Notebook](notebooks/Vaca_Muerta_Prophet_2026.ipynb)
+
+The technical documentation provides additional details on data preparation, model configuration, validation, forecasting results, and methodological limitations.
+
 
 ## 6. Professional Competencies Demonstrated
 
